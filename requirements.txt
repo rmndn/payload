@@ -1,0 +1,7 @@
+cloudscraper
+requests
+socks
+PySocks
+scapy
+icmplib
+colorama
